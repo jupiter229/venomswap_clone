@@ -4,6 +4,7 @@ cache/
 coverage/
 exports/
 node_modules/
+build/
 flatten/
 types/
 package-lock.json
